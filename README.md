@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi, I'm Maciek.
+---
+
+### Get in touch
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maciekklospl@gmail.com) [![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white)]()
+
+### What I work with
+![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotpeEe&hide=stars,contribs,issues&show_icons=true&theme=dark&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotpeEe&layout=compact&bg_color=0d1117&text_color=9f9f9f&title_color=fff)
 
 <!--
 **jotpeEe/jotpeEe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
