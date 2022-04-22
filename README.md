@@ -1,5 +1,4 @@
 # Hi, I'm Maciek.
----
 
 ### Get in touch
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maciekklospl@gmail.com) [![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white)]()
